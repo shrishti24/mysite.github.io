@@ -1,0 +1,100 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 150%;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 6px;
+  width:5%;
+}
+a{
+  color: #11999E;
+  font-family:'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+
+}
+p{
+  line-height: 2;
+}
+.desc{
+  margin: auto;
+  width: 50%;
+  padding-bottom: 50px;
+}
+.middle-container{
+  margin:100px 0;
+}
+.bottom-container{
+  background-color:#66BFBF;
+  padding: 50px 0 20px 0;
+}
+.top-container{
+  background-color: powderblue;
+  padding-top: 100px;
+  position: relative;
+  margin: 0 0 100px 0;
+}
+.top-cloud{
+  position:absolute;
+  top:40px;
+  right:450px;
+}
+.bottom-cloud{
+  margin-bottom: 0;
+  position:absolute;
+  left:450px;
+}
+.pro{
+  font-weight: normal;
+  text-decoration: underline;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.proimg{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.webimg{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.90rem;
+  padding: 20px;
+}
+.contact-me{
+  margin: 40px auto 60px;
+} 
